@@ -24,7 +24,6 @@ I'm a passionate software engineer focused on building **scalable, real-world ap
 
 **💻 Quick Overview:**
 
-- 📍 **Location:** Pakistan 🇵🇰
 - 🎯 **Current Focus:** System Design • Real-Time Communication • Backend Optimization
 - 🔨 **Working With:** React • .NET Core • PostgreSQL
 - 🚀 **Exploring:** SignalR • RabbitMQ • Microservices • Performance Tuning
