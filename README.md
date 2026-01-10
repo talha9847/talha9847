@@ -1,52 +1,86 @@
-# Hi there! 👋 I'm Talha
+# Hi there! 👋 I'm Talha  
 
-A passionate [Your Role, e.g., Full-Stack Developer, Data Scientist, Tech Enthusiast] always looking to learn and build new things. Welcome to my GitHub profile!
+🚀 Full-Stack Developer | .NET & React Enthusiast | Problem Solver  
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **[Project Name or Type of Project, e.g., a modern e-commerce platform using React and Node.js]**
-- 🌱 I’m currently diving deeper into **[New Technology or Skill, e.g., Cloud computing with AWS/Azure or Machine Learning algorithms]**
-- 👯 I’m looking to collaborate on **[Type of Projects, e.g., Open Source projects related to Python, or front-end development challenges]**
-- 🤔 I’m looking for help with **[Specific Technical Challenge/Area, e.g., optimizing database queries or advanced DevOps practices]**
-- 💬 Ask me about **[Your Expertise: e.g., JavaScript, Python, UI/UX design, or specific frameworks like Django/React]**
-- 📫 How to reach me: You can best reach me via **[Your Email Address]**
-- ⚡ Fun fact: **[A short, interesting fact about you, e.g., I've contributed to X open-source projects, or I love hiking in my free time!]**
+I’m a passionate software engineer focused on building scalable, real-world applications using modern technologies. I enjoy working on backend systems, real-time features, and clean architectures while continuously improving through projects and problem-solving.
 
 ---
 
-### 🛠️ My Core Toolbox
+## 🚀 About Me
 
-Here are a few technologies and tools I frequently use:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` &middot; `JavaScript` &middot; `HTML5` &middot; `CSS3` &middot; `SQL` |
-| **Frontend** | `React` &middot; `Vue.js` &middot; `Tailwind CSS` &middot; `Bootstrap` |
-| **Backend & Frameworks** | `Node.js` &middot; `Express` &middot; `Django` &middot; `Flask` |
-| **Databases** | `PostgreSQL` &middot; `MySQL` &middot; `MongoDB` |
-| **Tools & Platforms** | `Git` &middot; `Docker` &middot; `AWS` &middot; `VS Code` |
-
-*(Customize this table with your specific skills and experience.)*
+- 🔭 Working on full-stack projects using **React, .NET Core, and PostgreSQL**
+- 🌱 Learning **system design, real-time communication, and backend optimization**
+- 👯 Open to collaborating on **full-stack, backend, and open-source projects**
+- 🤔 Exploring **SignalR, RabbitMQ, microservices, and performance tuning**
+- 💬 Ask me about **C#, .NET Core, React, PostgreSQL, REST APIs**
+- ⚡ Fun fact: I enjoy turning complex ideas into simple, working products
 
 ---
 
-### 🔥 My GitHub Activity & Stats
+## 🛠️ Tech Stack
+
+### Languages
+- C#
+- JavaScript
+- SQL
+- HTML5
+- CSS3
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- .NET Core
+- ASP.NET MVC
+- Node.js
+- Express
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Real-Time & Messaging
+- SignalR
+- RabbitMQ
+
+### Tools
+- Git
+- Docker
+- Postman
+- VS Code
+
+---
+
+## 🔥 Projects & Focus Areas
+
+- 🚘 **SmartRide Connect** – Ride-sharing & social platform (Web + Mobile)
+- 🏗️ **Makes Easy** – Multi-service platform with role-based access
+- 💬 **Real-time Chat Systems** using SignalR & RabbitMQ
+- 📊 Backend systems with clean architecture
+- 🧠 Data Structures & Algorithms (LeetCode)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talha9847&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Talha's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha9847&theme=dark" alt="Talha's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=talha9847&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha9847&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### Connect with me:
+## 🌐 Connect With Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your LinkedIn Profile URL Here])
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Your Twitter Profile URL Here])
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your Personal Website URL Here])
+- 🌐 Portfolio: https://talha.rf.gd  
+- 💻 GitHub: https://github.com/talha9847  
+- 🔗 LinkedIn: https://www.linkedin.com/in/talha-malek-902042282  
+- 🐦 X (Twitter): https://x.com/t_malek98  
+- 🧠 LeetCode: https://leetcode.com/u/t_malek98/
 
-***
+---
 
-**Pro-Tip:** Remember to replace the bracketed placeholders `[like this]` with your actual information and links!
+⭐ If you like my work, consider starring a repository or connecting with me!
