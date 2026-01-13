@@ -164,11 +164,6 @@ mindmap
       DSA Practice
       LeetCode
       System Design
-
-  classDef dev fill:#73daca,stroke:#333,stroke-width:2px;
-  classDef realtime fill:#bb9af7,stroke:#333,stroke-width:2px;
-  classDef design fill:#7aa2f7,stroke:#333,stroke-width:2px;
-  classDef solve fill:#f7768e,stroke:#333,stroke-width:2px;
 ```
 
 ---
