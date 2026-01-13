@@ -148,22 +148,27 @@ Continuously sharpening algorithmic thinking and problem-solving skills through 
 ```mermaid
 mindmap
   root((Talha's Tech Journey))
-    Full-Stack Development
+    Full-Stack:::dev
       React Ecosystem
       .NET Core APIs
       Clean Architecture
-    Real-Time Systems
+    Real-Time Systems:::realtime
       SignalR
       WebSockets
       RabbitMQ
-    System Design
+    System Design:::design
       Microservices
       Scalability
       Performance
-    Problem Solving
+    Problem Solving:::solve
       DSA Practice
       LeetCode
       System Design
+
+  classDef dev fill:#73daca,stroke:#333,stroke-width:2px;
+  classDef realtime fill:#bb9af7,stroke:#333,stroke-width:2px;
+  classDef design fill:#7aa2f7,stroke:#333,stroke-width:2px;
+  classDef solve fill:#f7768e,stroke:#333,stroke-width:2px;
 ```
 
 ---
